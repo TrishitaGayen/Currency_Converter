@@ -1,3 +1,9 @@
+# Features 
+- Choose the currency to convert from a drop-down list .
+- Select the currency to convert to from another drop-down list .
+- Input the amount to be converted .
+- Fetch the current exchange rate and get the converted amount .
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
